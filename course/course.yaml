@@ -2,8 +2,8 @@
 
 Course:
   Language:
-    Name: Spanish
-    IETF BCP 47: es
+    Name: Lombard
+    IETF BCP 47: lmo
   For speakers of:
     Name: English
     IETF BCP 47: en
@@ -13,22 +13,14 @@ Course:
     Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
   Repository: https://github.com/LibreLingo/LibreLingo-ES-from-EN
   Special characters:
-    - "á"
-    - "Á"
     - "é"
     - "É"
-    - "í"
-    - "Í"
     - "ó"
     - "Ó"
-    - "ú"
-    - "Ú"
-    - "ü"
-    - "Ü"
-    - "ñ"
-    - "Ñ"
-    - "¿"
-    - "¡"
+    - "ò"
+    - "Ò"
+    - "è"
+    - "È"
 
 Modules:
   - basics/
@@ -37,8 +29,4 @@ Modules:
 
 Settings:
   Audio:
-    Enabled: True
-    TTS:
-      - Provider: Polly
-        Voice: Lucia
-        Engine: standard
+    Enabled: false
