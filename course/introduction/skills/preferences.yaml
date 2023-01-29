@@ -3,35 +3,35 @@ Skill:
   Id: 13
 
 New words:
-  - Word: café
+  - Word: cafè
     Translation: coffee
     Images:
       - coffee1
       - coffee2
       - coffee3
 
-  - Word: vino
+  - Word: vin
     Translation: wine
     Images:
       - wine1
       - wine2
       - wine3
 
-  - Word: cerveza
+  - Word: bira
     Translation: beer
     Images:
       - beer1
       - beer2
       - beer3
 
-  - Word: un café
+  - Word: un cafè
     Translation: a coffee
     Images:
       - coffee1
       - coffee2
       - coffee3
 
-  - Word: el vino
+  - Word: el vin
     Translation: the wine
     Images:
       - wine1
@@ -41,46 +41,41 @@ New words:
 
 
 Phrases:
-  - Phrase: ¿Te gusta el café?
-    Alternative versions:
-      - ¿A ti te gusta el café?
+  - Phrase: El te pias el cafè?
     Translation: Do you like coffee?
 
-  - Phrase: Me gusta la pasta
-    Alternative versions:
-      - A mí me gusta la pasta
-    Translation: I like pasta
+  - Phrase: Mi la me pias la polenta
+    Translation: I like polenta
 
-  - Phrase: Me gusta la cerveza
-    Alternative versions:
-      - A mí me gusta la cerveza 
+  - Phrase: Mi la me pias la bira
     Translation: I like beer
 
-  - Phrase: No me gusta el vino
+  - Phrase: Mi el me pias minga el vin
     Alternative versions:
-      - A mí no me gusta el vino
+      - Mi el me pias mia el vin
     Translation: I don't like wine
 
-  - Phrase: Él no come carne
+  - Phrase: Lu el mangia minga la carna
     Alternative versions:
-      - No come carne
+      - El mangia minga la carna
+      - El mangia mia la carna
+      - El magna mia la carna
+      - El magna minga la carna
     Translation: He doesn't eat meat
 
-  - Phrase: Yo bebo vino
-    Alternative versions:
-      - Bebo vino
+  - Phrase: Mi bevi el vin
     Translation: I drink wine
 
-  - Phrase: Cecilia no come pasta
+  - Phrase: Cecilia la mangia minga la pasta
     Translation: Cecilia doesn't eat pasta
 
-  - Phrase: ¡Una cerveza, por favor!
+  - Phrase: Una birra, per piesè!
     Translation: A beer please!
 
-  - Phrase: ¿Te gusta el vino?
+  - Phrase: El te pias el vin?
     Translation: Do you like wine?
 
-  - Phrase: ¿No te gusta el pan?
+  - Phrase: El te pias minga el vin?
     Translation: Don't you like bread?
     Alternative translations:
       - You don't like bread?
@@ -89,14 +84,14 @@ Phrases:
 Mini-dictionary:
   English:
     - do:
-      - hace
-      - hago
-      - haces
-      - hacemos
+      - fa
+      - foo
+      - fa
+      - fann
     - don't: "no"
     - doesn't: "no"
 
-  Spanish:
+  Lombard:
     - una:
       - a
       - one
