@@ -5,107 +5,86 @@ Skill:
 New words: []
 
 Phrases:
-  - Phrase: ¡Buenos días!
+  - Phrase: Bon dì!
     Translation: Good morning!
     Alternative translations:
       - Good day!
 
-  - Phrase: Buenos días, yo soy Cecilia.
+  - Phrase: Bon di, mi son la Cecilia.
     Alternative versions:
-      - Buenos días, soy Cecilia.
+      - Bon dì, mi me se ciami Cecilia.
     Translation: Good morning, I am Cecilia.
 
-  - Phrase: Yo me llamo José
+  - Phrase: Mi me se ciami Ambroeus
     Alternative versions:
-      - Me llamo José
-    Translation: My name is José
+      - Me se ciami Ambroeus
+    Translation: My name is Ambrose
     Alternative translations:
-      - I am called José
-      - I'm called José
+      - I am called Ambrose
+      - I'm called Ambrose
 
-  - Phrase: ¿Qué tal?
+  - Phrase: Comè la va?
+      Alternative versions:
+      - 'Me la va?
     Translation: How are you?
 
-  - Phrase: ¿Qué pasa?
-    Translation: What's up?
-
-  - Phrase: Mucho gusto
+  - Phrase: Son propi content de cognossét
     Translation: Nice to meet you
     Alternative translations:
       - Nice meeting you
 
-  - Phrase: ¡Hasta luego!
+  - Phrase: Se vedom!
     Translation: See you later!
     Alternative translations:
       - See you soon!
 
-  - Phrase: ¿Cómo te llamas?
+  - Phrase: Come te se ciamet?
     Translation: What's your name?
     Alternative translations:
       - What is your name?
 
-  - Phrase: ¡Buenas tardes!
+  - Phrase: Bona sira!
     Translation: Good afternoon!
     Alternative translations:
       - Good evening!
 
-  - Phrase: ¡Buenas noches, José!
-    Translation: Good night, José!
+  - Phrase: Bona nocc, Isep!
+    Translation: Good night, Isep!
 
 Mini-dictionary:
   English:
     - morning:
-      - mañana
+      - matina
     - my:
-      - mi
-    - name: nombre
-    - what's:
-      - qué
-      - que es
-    - up:
-      - arriba
-      - para arriba
-      - hacia arriba
-      - hasta
+      - mè
+    - name: nom
     - nice:
-      - bonito
-      - bonita
-      - agradable
-      - bien
-      - bueno
+      - bon
+      - bell
     - meet:
-      - conocer
-      - encontrarse
+      - cognosser
+      - incontrà
     - see:
-      - ver
-      - ve
-      - veo
-      - ven
+      - vedé
+      - ved
+      - vedi
+      - vedeb
     - later:
-      - más tarde
-      - después
-      - luego
-    - afternoon: tarde
-    - night: noche
+      - pussee inanz
+      - despoeu
+    - afternoon: dopodisnà
+    - night: nocc
 
-  Spanish:
-    - buenos: good
-    - días: days
-    - llamo: I call
-    - qué: what
-    - tal: such
+  Lombard:
+    - buenos: bon
+    - días: dì
+    - llamo: me se ciami
+    - qué: che?
+    - tal: inscì
     - pasa:
-      - happens
-      - passes
-    - gusto:
+      - la va
+    - gust:
       - taste
-      - liking
-      - pleasure
-    - hasta: until
-    - luego:
-      - soon
-      - then
-      - later
     - cómo:
       - how
       - Sorry? What?
